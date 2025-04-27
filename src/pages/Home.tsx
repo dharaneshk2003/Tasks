@@ -54,7 +54,7 @@ const Dashboard: React.FC = () => {
               </div>
               <div>
                 <h2 className="font-semibold text-2xl">Task 2</h2>
-                <p className="text-base opacity-90">Simple prototype to link two Graphics’ based object in ReactJ</p>
+                <p className="text-base opacity-90">Simple prototype to link two Graphics’ based object in ReactJs</p>
               </div>
             </div>
             <span className="arrow-icon text-2xl transition-transform duration-300">
